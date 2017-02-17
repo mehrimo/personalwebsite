@@ -4,6 +4,16 @@ html, body {
     font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
     color: #757575;
 }
+
+.larger-text1 {
+  font-size: 1.6em;
+}
+
+.larger-text2 {
+  font-size: 1.3em;
+
+}
+
 img {
     max-width: 100%;
 }
